@@ -7,7 +7,7 @@ console.log("env check", {
 
 const OA_ID = "@theballmusicstudio";
 const TEXT =
-  "您好，小編～我想預約明天（週三）14:00 的打鼓練習室，姓名：Monica，大安店|訂單編號：10880941。謝謝！";
+  "您好，小編～我想預約明天（週三）14:00 的打鼓練習室，姓名：Monica，大安店|訂單編號：10920233。謝謝！";
 
 function buildOALink() {
   return `https://line.me/R/oaMessage/${encodeURIComponent(
